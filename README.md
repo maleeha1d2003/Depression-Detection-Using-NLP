@@ -118,6 +118,11 @@ Dataset contains:
 * Multi-Modal Analysis
 * Real-Time Social Media Integration
 
+## Team Members
+
+- Syeda Maleeha Bano Naqvi
+- Aqsa Riaz
+
 ## Author
 
 Maleeha Naqvi
